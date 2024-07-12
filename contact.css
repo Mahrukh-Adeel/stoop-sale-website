@@ -27,26 +27,6 @@ form textarea {
     box-sizing: border-box;
 }
 
-form button {
-    background-color: #a7d65f;
-    color: white;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-    font-size: 16px;
-    font-weight: bold;
-}
-
-form button:hover {
-    background-color: #6ebd2b;
-}
-
-form button:active {
-    background-color: #4d9a21;
-    transform: scale(0.98);
-}
-
 form input[type="text"]:focus,
 form input[type="email"]:focus,
 form textarea:focus {
