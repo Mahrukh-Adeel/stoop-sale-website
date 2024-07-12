@@ -263,6 +263,11 @@ b{
     font-weight: 500;
 }
 
-.map{
-    border-radius: 20px;
+iframe{
+    border-radius: 10px;
+    box-shadow: #A7D65F 0px 0px 10px;
+}
+
+.info p{
+    padding:5px;
 }
