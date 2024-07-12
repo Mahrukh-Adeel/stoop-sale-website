@@ -258,3 +258,11 @@ header {
 .location button{
     margin-top: 10px;
 }
+
+b{
+    font-weight: 500;
+}
+
+.map{
+    border-radius: 20px;
+}
