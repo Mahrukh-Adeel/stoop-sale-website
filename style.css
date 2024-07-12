@@ -122,7 +122,9 @@ header {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 30px;
+    padding-left: 80px;
 }
+
 
 .card-container {
     perspective: 1000px;
