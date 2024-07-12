@@ -20,6 +20,12 @@ function share() {
       console.log('Sharing is not supported by your browser.');
     }
 }
+function navigateToContact() {
+  window.location.href = 'contact.html';
+}
 
+function navigateToDetails() {
+  window.location.href = 'detail.html';
+}
 
   

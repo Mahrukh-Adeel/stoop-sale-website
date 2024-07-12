@@ -1,4 +1,5 @@
 form {
+    margin-top: 10%;
     background-color: rgba(255, 255, 255, 0.7);
     padding: 20px;
     border: 2px outset #a7d65f;
@@ -8,6 +9,17 @@ form {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
+
+
+body{
+    padding-top: 5%;
+    background-image: url("images/header.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    font-family: 'Roboto', sans-serif;
+}
 form label {
     display: block;
     font-weight: bold;
@@ -15,6 +27,9 @@ form label {
     color: #4d9a21;
 }
 
+main{
+    margin-top: 10%;
+}
 form input[type="text"],
 form input[type="email"],
 form textarea {
