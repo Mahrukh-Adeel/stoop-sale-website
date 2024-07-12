@@ -254,3 +254,7 @@ header {
     border: 2px outset #a7d65f;
     border-radius: 20px;
 }
+
+.location button{
+    margin-top: 10px;
+}
